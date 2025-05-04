@@ -12,6 +12,10 @@
               "cola-dark": "#1a1a1a",
               "cola-gold": "#d4af37",
             },
+            backgroundImage: {
+              "cola-gradient":
+                "radial-gradient(circle,rgba(224, 202, 202, 1) 0%, rgba(255, 0, 0, 1) 91%);",
+            },
             fontFamily: {
               display: ['"Bebas Neue"', "sans-serif"],
               body: ['"Open Sans"', "sans-serif"],
@@ -66,11 +70,6 @@
           <!-- Right Side Elements -->
           <div class="flex items-center space-x-4">
             <!-- Language Selector -->
-            <div class="flex items-center space-x-2">
-              <span class="text-sm font-medium text-cola-red">ID</span>
-              <span class="text-gray-400">|</span>
-              <span class="text-sm font-medium text-gray-400">EN</span>
-            </div>
 
             <!-- Download App Button -->
             <a
@@ -121,7 +120,7 @@
     </div>
 
     <!-- Product Showcase -->
-    <div class="bg-red-800 py-12">
+    <div class="bg-cola-gradient py-12">
       <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div class="grid md:grid-cols-3 gap-8">
           <!-- Product 1 -->

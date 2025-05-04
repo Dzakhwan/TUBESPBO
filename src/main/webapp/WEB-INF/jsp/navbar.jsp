@@ -66,11 +66,7 @@
           <!-- Right Side Elements -->
           <div class="flex items-center space-x-4">
             <!-- Language Selector -->
-            <div class="flex items-center space-x-2">
-              <span class="text-sm font-medium text-cola-red">ID</span>
-              <span class="text-gray-400">|</span>
-              <span class="text-sm font-medium text-gray-400">EN</span>
-            </div>
+           
 
             <!-- Download App Button -->
             <a
