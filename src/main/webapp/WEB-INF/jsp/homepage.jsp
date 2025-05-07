@@ -104,22 +104,11 @@
         <div class="swiper-wrapper">
           <!-- Slide 1 -->
           <div class="swiper-slide relative">
-            <img src="/images/herro1.png" alt="Hero Image" />
-            <div
-              class="absolute inset-0 bg-black bg-opacity-40 flex items-center justify-center"
-            >
-              <div class="text-center px-4">
-                <h1
-                  class="text-4xl md:text-6xl lg:text-7xl font-display mb-6 text-cola-red"
-                >
-                  REFRESHING TASTE
-                </h1>
-                <p class="text-xl md:text-2xl max-w-2xl mx-auto">
-                  Experience our signature beverages crafted with premium
-                  ingredients
-                </p>
-              </div>
-            </div>
+            <img
+              src="/images/herro1.png"
+              alt="Hero Image"
+              class="w-full h-screen object-cover"
+            />
           </div>
 
           <!-- Slide 2 -->
