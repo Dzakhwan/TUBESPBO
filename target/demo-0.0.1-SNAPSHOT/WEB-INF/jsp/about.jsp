@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>ColaCrush - About Us</title>
+    <title>Do and Drinks - About Us</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <!-- ... (same head content as base.html) ... -->
   </head>

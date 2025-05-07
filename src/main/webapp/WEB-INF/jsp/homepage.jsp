@@ -104,11 +104,7 @@
         <div class="swiper-wrapper">
           <!-- Slide 1 -->
           <div class="swiper-slide relative">
-            <img
-              src="https://images.unsplash.com/photo-1551029506-0807df4e2031?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
-              alt="Beverage Collection"
-              class="w-full h-screen object-cover"
-            />
+            <img src="/images/herro1.png" alt="Hero Image" />
             <div
               class="absolute inset-0 bg-black bg-opacity-40 flex items-center justify-center"
             >
